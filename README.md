@@ -36,7 +36,7 @@
 * **git checkout >nome da branch<**
 >Troca a branch
 
-* **git **
+* **git merge >nome da branch<**
 >
 
 * **git **
