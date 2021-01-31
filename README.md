@@ -54,11 +54,11 @@
 * **git pull origin >branch<**
 >Atualiza uma referência local a partir de uma referência remota (puxa)
 
-* **git **
->
+* **git reset --soft >commit<**
+>Não toca no arquivo de índice ou na árvore de trabalho (mas redefine o cabeçalho para _commit_, assim como todos os modos fazem). Isso deixa todos os seus arquivos alterados como "Changes to be committe" (Alterações onde serão realizados os commits), como o git status colocaria.
 
-* **git **
->
+* **git reset --mixed >commit< ou git reset >commit<**
+>Redefine o índice, mas não a árvore de trabalho (ou seja, os arquivos alterados são preservados, mas não marcados para um commit) e relata o que não foi atualizado. Esta é a ação predefinida.
 
-* **git **
->
+* **git reset --hard >commit<**
+>Redefine o índice e a árvore de trabalho. Quaisquer alterações nos arquivos rastreados na árvore de trabalho desde _commit_ serão descartados.
