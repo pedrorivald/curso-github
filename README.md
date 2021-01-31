@@ -33,17 +33,26 @@
 * **git branch >nome<**
 >Cria uma branch
 
+* **git branch -d >nome<**
+>Deleta a branch
+
 * **git checkout >nome da branch<**
 >Troca a branch
 
+* **git checkout -b >nome da branch<**
+>Cria uma branch e faz a troca para ela
+
 * **git merge >nome da branch<**
->
+>Une históricos de desenvolvimento
 
-* **git **
->
+* **git rremote add origin >https://...<**
+>Cria um repositório remoto
 
-* **git **
->
+* **git push origin >branch<**
+>Atualiza uma referência remota para uma origin a partir de uma referência local (empurra)
+
+* **git pull origin >branch<**
+>Atualiza uma referência local a partir de uma referência remota (puxa)
 
 * **git **
 >
