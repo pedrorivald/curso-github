@@ -54,11 +54,11 @@
 * **git pull origin >branch<**
 >Atualiza uma referência local a partir de uma referência remota (puxa)
 
-* **git reset --soft**
+* **git reset --soft >commit<**
+>Reseta e deixa no index
+
+* **git reset --mixed >commit< ou git reset >commit<**
 >
 
-* **git reset --mixed ou git reset**
->
-
-* **git reset --hard**
+* **git reset --hard >commit<**
 >
