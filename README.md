@@ -1,7 +1,7 @@
 # :man_technologist: Curso - Github
 ### Repositório feito apenas para meu aprendizado (testes) em git e github
 
-## Principais comandos
+## Comandos básicos
 
 * **git version**
 >Mostra a versão do git instalada
@@ -26,6 +26,27 @@
 
 * **git commit -m 'comentario'**
 >Grava as alterações feitas no repositório
+
+* **git branch**
+>Lista as branchs
+
+* **git branch >nome<**
+>Cria uma branch
+
+* **git checkout >nome da branch<**
+>Troca a branch
+
+* **git **
+>
+
+* **git **
+>
+
+* **git **
+>
+
+* **git **
+>
 
 * **git **
 >
