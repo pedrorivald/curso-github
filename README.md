@@ -62,3 +62,5 @@
 
 * **git reset --hard >commit<**
 >Redefine o índice e a árvore de trabalho. Quaisquer alterações nos arquivos rastreados na árvore de trabalho desde _commit_ serão descartados.
+
+https://gist.github.com/pedrorivald/bc49a47cb8d108a200435070a34f35c4
