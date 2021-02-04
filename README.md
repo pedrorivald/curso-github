@@ -45,7 +45,7 @@
 * **git merge >nome da branch<**
 >Une históricos de desenvolvimento
 
-* **git rremote add origin >https://...<**
+* **git remote add origin >https://...<**
 >Cria um repositório remoto
 
 * **git push origin >branch<**
